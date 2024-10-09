@@ -30,11 +30,16 @@ OK, here we go.
 ## Introduction and Goals
 
 The goal of my project is to answer the question, What is...?
+A great deal of my time is spent with non biting midges Chironomidae in my lab. Most of our samples have been clean freshwater samples from lakes. However I want to explore genetic differences in these species and see if this is leading to evolutionary differences. As there has been observed morphological differences. Hopefully my project shows that if there is clear clustering between the groups then there is limited genetic divergence between the populations and cause of gene flow/similar ecological pressures across environments. Or if there are two distance clusters between the groups that may imply the midge populations adapted differently. (If I have to pick a more specific group I would like to pick Tanypodinae).
 
 The methods I will use to do this are...
+Data Collection: I hope to use BOLD systems and or Genbank
+Sequence Alignment: I plan to look at the COI gene but I have been reading papers on midge phylogenies to better understand what else I could look for. Like  nuclear 28S and CAD.
+Model Selection: with this data I want to use R and the other programs on the cluster we have been shown in class. Like I think I want to construct the tree in IQ TREE then import it to R.
+Tree Construction: Most of the Chironomidae phylogeny papers I have read have used Bayesian and maximum likelihood phylogenetic inferences.
 
 The data I will use are (my own data/ data publicly available at YYY/ simulations)
-
+I will try to use BOLD systems public data, and I would like to possibly consider using some of my lab data but that will probably need to be morphological if I do. 
 ## Methods
 
 The tools I used were... See analysis files at (links to analysis files).
